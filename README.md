@@ -1,4 +1,4 @@
-# SVG-Telecaster-ArmTheHomeless
+# SVG-Guitar-ArmTheHomeless
 
 ## Одна из гитар Тома Морелло - "Arm The Homeless" | One of Tom Morello's guitars - "Arm The Homeless"
 
